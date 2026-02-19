@@ -11,7 +11,7 @@
           "architecture": "nrf52",
           "version": "1.1.12",
           "category": "Contributed",
-          "url": "http://localhost:8000/cazzette_nrf52_1.1.12.zip",
+          "url": "https://github.com/hidsh/1st-bsp/releases/download/v0.1/cazzette_nrf52_1.1.12.zip",
           "archiveFileName": "cazzette_nrf52_1.1.12.zip",
           "checksum": "SHA-256:4bc13924cdacbd874720f2d3688d307e08c0aadbc6067d437494af42fb442a95",
           "size": "28200968",
