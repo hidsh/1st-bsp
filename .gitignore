@@ -1,0 +1,31 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Visual Studio Code
+.vscode/
+.idea/
+.pio/
+.piopm
+/libraries/*/.development
+
+# Executables
+*.out
+*.app
+
+*.pyc
+/tools/.idea/
+/tools/midi_tests/node_modules
+
+.DS_Store
+*.swp
+/Output
+
+# -------
+*.zip
+*.hex
+#*.uf2
+.bak
+.bak[0-9]*
+.old
+
