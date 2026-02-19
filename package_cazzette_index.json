@@ -13,7 +13,7 @@
           "category": "Contributed",
           "url": "https://github.com/hidsh/1st-bsp/releases/download/v0.1/cazzette_nrf52_1.1.12.zip",
           "archiveFileName": "cazzette_nrf52_1.1.12.zip",
-          "checksum": "SHA-256:4bc13924cdacbd874720f2d3688d307e08c0aadbc6067d437494af42fb442a95",
+          "checksum": "SHA-256:552d56997fc83693fb76c4156046164f1539b33a43cdf82b64abf278b28bb4a6",
           "size": "28200968",
           "boards": [
             { "name": "Cazzette for Xiao nRF52840 Plus" }
